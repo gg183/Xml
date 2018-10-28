@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+time
+{display:block;font-size:18px;font-weight:bold
+}
+hour
+{display:inline;font-size:16px;font-style:italic
+}
+minute
+{display:inline;font-size:9px;font-weight:bold
+}
